@@ -4,14 +4,23 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 23:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 23:07:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
             <title><![CDATA[Main Page]]></title>
             <guid>41eecc64b1f64252bd27a6035c4ec927</guid>
             <pubDate>Fri, 04 Oct 2024 21:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[<h1 class="jop-noMdConv">Hello World and this is a language learning website</h1>]]></content:encoded>
+            <content:encoded><![CDATA[<h1 id="welcome-to-the-world-of">Welcome to the world of</h1>
+<p>:[<br />
+Resources</p>
+<p>Body<br />
+]:</p>
+<p>:[<br />
+Journal</p>
+<p>Todays Journal:<br />
+]:</p>
+]]></content:encoded>
         </item>
     </channel>
 </rss>
