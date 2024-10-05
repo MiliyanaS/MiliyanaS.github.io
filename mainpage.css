@@ -1,6 +1,7 @@
 
 /*removing bullets from the bottom of the page*/
 ul#extra{
+  text-align: center;
   list-style-type: none; /* Remove bullets */
   padding: 0; /* Remove padding */
   margin: 0; /* Remove margins */
