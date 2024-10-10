@@ -1,11 +1,14 @@
 {
   "vaultName": "Miliyana",
-  "lastExport": 1728491792046,
+  "lastExport": 1728531073843,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "Journal/Journal - Dev Blog/Dev Blog.md",
+    "Journal/Journal - Japanese/Japanese Journal.md",
+    "Journal/Journal - Mandarin/Mandarin Japanese.md",
     "Languages/Japanese/Japanese-Blog/Blog-1.md",
     "Languages/Japanese/Japanese-Flashcards.md",
     "Languages/Japanese/Japanese-Grammar.md",
@@ -51,153 +54,171 @@
   ],
   "fileInfo": {
     "Languages/Japanese/Japanese-Blog/Blog-1.md": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 832,
       "exportedPath": "Languages/Japanese/Japanese-Blog/Blog-1.html",
       "dependencies": []
     },
     "Languages/Japanese/Japanese-Flashcards.md": {
-      "modifiedTime": 1728491792046,
-      "sourceSize": 715,
+      "modifiedTime": 1728531073843,
+      "sourceSize": 799,
       "exportedPath": "Languages/Japanese/Japanese-Flashcards.html",
       "dependencies": []
     },
     "Languages/Japanese/Japanese-Grammar.md": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 4229,
       "exportedPath": "Languages/Japanese/Japanese-Grammar.html",
       "dependencies": []
     },
     "Languages/Japanese/Japanese-Tasks.md": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 1223,
       "exportedPath": "Languages/Japanese/Japanese-Tasks.html",
       "dependencies": []
     },
     "Languages/Japanese/Japanese-Time tracker.md": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 42,
       "exportedPath": "Languages/Japanese/Japanese-Time tracker.html",
       "dependencies": []
     },
     "Languages/Japanese/Japanese-Video to watch.md": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 142,
       "exportedPath": "Languages/Japanese/Japanese-Video to watch.html",
       "dependencies": []
     },
     "Languages/Mandarin/Mandarin.md": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 511,
       "exportedPath": "Languages/Mandarin/Mandarin.html",
       "dependencies": []
     },
     "Languages/Mandarin/Mandarin Flashcards.md": {
-      "modifiedTime": 1728491792046,
-      "sourceSize": 1304,
+      "modifiedTime": 1728531073843,
+      "sourceSize": 1376,
       "exportedPath": "Languages/Mandarin/Mandarin Flashcards.html",
       "dependencies": []
     },
     "Languages/Mandarin/Mandarin-Grammar.md": {
-      "modifiedTime": 1728491792046,
-      "sourceSize": 889,
+      "modifiedTime": 1728531073843,
+      "sourceSize": 1006,
       "exportedPath": "Languages/Mandarin/Mandarin-Grammar.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1728491792046,
-      "sourceSize": 41,
+      "modifiedTime": 1728531073843,
+      "sourceSize": 24,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1728491792046,
+      "modifiedTime": 1728531073843,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "Journal/Journal - Dev Blog/Dev Blog.md": {
+      "modifiedTime": 1728531073843,
+      "sourceSize": 653,
+      "exportedPath": "Journal/Journal - Dev Blog/Dev Blog.html",
+      "dependencies": []
+    },
+    "Journal/Journal - Japanese/Japanese Journal.md": {
+      "modifiedTime": 1728531073843,
+      "sourceSize": 64,
+      "exportedPath": "Journal/Journal - Japanese/Japanese Journal.html",
+      "dependencies": []
+    },
+    "Journal/Journal - Mandarin/Mandarin Japanese.md": {
+      "modifiedTime": 1728531073843,
+      "sourceSize": 0,
+      "exportedPath": "Journal/Journal - Mandarin/Mandarin Japanese.html",
       "dependencies": []
     }
   }
