@@ -1,6 +1,6 @@
 {
   "vaultName": "Miliyana",
-  "lastExport": 1728798969735,
+  "lastExport": 1728799827702,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -24,7 +24,6 @@
     "Studying - Programming/Android Development/Basics of Kotlin.md",
     "Studying - Programming/Web Development/Web Development Reference.md",
     "Studying - Programming/Github Commands.md",
-    "_habit tracker.md",
     "index.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -61,213 +60,207 @@
   ],
   "fileInfo": {
     "index.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 508,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "Learn Japanese/Chapter 1/A は B です。.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 848,
       "exportedPath": "Learn Japanese/Chapter 1/A は B です。.html",
       "dependencies": []
     },
     "Learn Japanese/Chapter 1/Lesson 2.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 0,
       "exportedPath": "Learn Japanese/Chapter 1/Lesson 2.html",
       "dependencies": []
     },
     "Learn Japanese/Chapter 1/Lesson 3.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 0,
       "exportedPath": "Learn Japanese/Chapter 1/Lesson 3.html",
       "dependencies": []
     },
     "Learn Japanese/Japanese Resources.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 11,
       "exportedPath": "Learn Japanese/Japanese Resources.html",
       "dependencies": []
     },
     "Learn Japanese/Japanese Roadmap.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 44,
       "exportedPath": "Learn Japanese/Japanese Roadmap.html",
       "dependencies": []
     },
     "Learn Mandarin/Mandarin Resources.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 243,
       "exportedPath": "Learn Mandarin/Mandarin Resources.html",
       "dependencies": []
     },
     "Learn Mandarin/Mandarin Roadmap.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 10,
       "exportedPath": "Learn Mandarin/Mandarin Roadmap.html",
       "dependencies": []
     },
     "MyStuff/Languages/My Japanese Notes/Journal - Japanese/Japanese Journal.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 2084,
       "exportedPath": "MyStuff/Languages/My Japanese Notes/Journal - Japanese/Japanese Journal.html",
       "dependencies": []
     },
     "MyStuff/Languages/My Japanese Notes/Japanese-Flashcards.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 2081,
       "exportedPath": "MyStuff/Languages/My Japanese Notes/Japanese-Flashcards.html",
       "dependencies": []
     },
     "MyStuff/Languages/My Japanese Notes/Japanese-Grammar.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 6412,
       "exportedPath": "MyStuff/Languages/My Japanese Notes/Japanese-Grammar.html",
       "dependencies": []
     },
     "MyStuff/Languages/My Japanese Notes/Japanese-Homework.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 377,
       "exportedPath": "MyStuff/Languages/My Japanese Notes/Japanese-Homework.html",
       "dependencies": []
     },
     "MyStuff/Languages/My Mandarin Notes/Journal - Mandarin/Mandarin Journal.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 856,
       "exportedPath": "MyStuff/Languages/My Mandarin Notes/Journal - Mandarin/Mandarin Journal.html",
       "dependencies": []
     },
     "MyStuff/Languages/My Mandarin Notes/Mandarin-Flashcards.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 1376,
       "exportedPath": "MyStuff/Languages/My Mandarin Notes/Mandarin-Flashcards.html",
       "dependencies": []
     },
     "MyStuff/Languages/My Mandarin Notes/Mandarin-Grammar.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 1019,
       "exportedPath": "MyStuff/Languages/My Mandarin Notes/Mandarin-Grammar.html",
       "dependencies": []
     },
     "Studying - Programming/Android Development/Android Table Contents Notes.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 20,
       "exportedPath": "Studying - Programming/Android Development/Android Table Contents Notes.html",
       "dependencies": []
     },
     "Studying - Programming/Android Development/Basics of Kotlin.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 7480,
       "exportedPath": "Studying - Programming/Android Development/Basics of Kotlin.html",
       "dependencies": []
     },
     "Studying - Programming/Web Development/Web Development Reference.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 1747,
       "exportedPath": "Studying - Programming/Web Development/Web Development Reference.html",
       "dependencies": []
     },
     "Studying - Programming/Github Commands.md": {
-      "modifiedTime": 1728798969735,
+      "modifiedTime": 1728799827702,
       "sourceSize": 1430,
       "exportedPath": "Studying - Programming/Github Commands.html",
-      "dependencies": []
-    },
-    "_habit tracker.md": {
-      "modifiedTime": 1728798969735,
-      "sourceSize": 2018,
-      "exportedPath": "_habit tracker.html",
       "dependencies": []
     }
   }
